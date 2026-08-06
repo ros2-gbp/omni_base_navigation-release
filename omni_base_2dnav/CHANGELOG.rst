@@ -2,6 +2,27 @@
 Changelog for package omni_base_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.24.2 (2026-07-24)
+-------------------
+* linters
+* fixing use sim time
+* Contributors: martinaannicelli
+
+2.24.1 (2026-07-21)
+-------------------
+* fix use sim time
+* Contributors: antoniobrandi
+
+2.24.0 (2026-07-17)
+-------------------
+* start apps using localization manager
+* Contributors: antoniobrandi
+
+2.23.0 (2026-07-07)
+-------------------
+* adapt eulero migration
+* Contributors: antoniobrandi
+
 2.22.1 (2026-02-17)
 -------------------
 
